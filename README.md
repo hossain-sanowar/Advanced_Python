@@ -4,3 +4,4 @@ https://docs.python.org/3/tutorial/
 - Module Concept
 - Package Concept
 - OOPs Concept
+- inheritence
